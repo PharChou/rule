@@ -12,6 +12,26 @@ DOMAIN-KEYWORD,baidu
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
+# NAME: Tesla
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:17:00
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+DOMAIN-SUFFIX,solarcity.com
+DOMAIN-SUFFIX,tesla-cdn.thron.cn
+DOMAIN-SUFFIX,tesla-cdn.thron.com
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslamotors.com.cn
+DOMAIN-SUFFIX,teslazta.net
+DOMAIN-SUFFIX,ts.la
+
+
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
