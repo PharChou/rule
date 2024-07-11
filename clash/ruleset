@@ -1,5 +1,5 @@
 [custom]
-
+;不定时更新
 ;规则组
 ruleset=全球直连,https://raw.githubusercontent.com/PharChou/rule/main/Direct.list
 ruleset=节点选择,https://raw.githubusercontent.com/PharChou/rule/main/Proxy.list
