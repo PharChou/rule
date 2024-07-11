@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.com.au
 DOMAIN-SUFFIX,amazon.com.ae
-DOMAIN-KEYWORD,amazon
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
