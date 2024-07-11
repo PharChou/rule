@@ -27,6 +27,13 @@ DOMAIN-SUFFIX,teslamotors.com.cn
 DOMAIN-SUFFIX,teslazta.net
 DOMAIN-SUFFIX,ts.la
 
+# NAME: Amazon
+DOMAIN-SUFFIX,amazon.cn
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazon.com.au
+DOMAIN-SUFFIX,amazon.com.ae
+DOMAIN-KEYWORD,amazon
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
