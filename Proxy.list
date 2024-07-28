@@ -3,12 +3,16 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,fastlink
+DOMAIN-KEYWORD,xviedo
+DOMAIN-KEYWORD,xiaoyakankan
+DOMAIN-KEYWORD,suixinfei
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 DOMAIN-SUFFIX,v2ex.com
+
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
