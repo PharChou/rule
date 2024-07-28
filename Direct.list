@@ -9,7 +9,7 @@ DOMAIN-KEYWORD,speedtest
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
 
-# NAME: PT
+# NAME: 
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,hdchina.org
