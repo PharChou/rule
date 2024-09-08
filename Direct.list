@@ -1,20 +1,24 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# 域名后缀匹配
+# NAME: time
 DOMAIN-SUFFIX,time.windows.com
-# 域名关键字匹配
+
+# NAME: baidu
 DOMAIN-KEYWORD,baidu
+
+# NAME: speedtest
 DOMAIN-KEYWORD,speedtest
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
 
-# NAME: 
+# NAME: PT
 DOMAIN-KEYWORD,btschool
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,oshen.win
 
+# NAME: Other
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,pharchow.cn
@@ -38,6 +42,21 @@ DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.com.au
 DOMAIN-SUFFIX,amazon.com.ae
+
+# NAME: Douyu
+DOMAIN-SUFFIX,bytefcdnrd.com
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyuba.cn
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,douyupcdn.cn
+DOMAIN-SUFFIX,douyuscdn.com
+DOMAIN-SUFFIX,douyutv.com
+DOMAIN-SUFFIX,doyonoc.com
+DOMAIN-SUFFIX,edgesrv.com
+DOMAIN-SUFFIX,guguyuyin.com
+DOMAIN-SUFFIX,oywtv.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
