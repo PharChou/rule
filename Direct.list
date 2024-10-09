@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,time.windows.com
 
 # NAME: baidu
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,cmbc.com
 
 # NAME: speedtest
 DOMAIN-KEYWORD,speedtest
