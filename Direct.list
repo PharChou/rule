@@ -14,8 +14,9 @@ DOMAIN-KEYWORD,speedtest
 # IP-CIDR,219.146.1.66/32,no-resolve
 
 # NAME: PT
-DOMAIN-KEYWORD,btschool
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,oshen.win
 
