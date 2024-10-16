@@ -318,7 +318,7 @@ DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
 
-# NAME: BOCOM
+# NAME: 交通银行
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:38
@@ -359,7 +359,7 @@ DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,luohanacademy.com
 DOMAIN-SUFFIX,sinopayment.com.cn
 
-# NAME: CCB
+# NAME: 建设银行
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:39
@@ -384,7 +384,7 @@ DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,ccbtrust.com.cn
 DOMAIN-SUFFIX,ccbxt.com
 
-# NAME: CMB
+# NAME: 招商银行
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:39
@@ -429,7 +429,7 @@ DOMAIN-SUFFIX,wuxizazhi.com.cn
 DOMAIN-SUFFIX,wuxizazhi.net
 DOMAIN-SUFFIX,wuxizazhi.net.cn
 
-# NAME: EastMoney
+# NAME: 东方财富
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:41
