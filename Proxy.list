@@ -15,6 +15,8 @@ IP-CIDR,103.115.43.2/32,no-resolve
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,fldylink.com
 DOMAIN-SUFFIX,digitalnomadlc.com
+DOMAIN-SUFFIX,itangtalk.com
+DOMAIN-SUFFIX,itangtalk.shop
 
 
 # 国外DNS
