@@ -20,13 +20,12 @@ DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,oshen.win
 
-DOMAIN-SUFFIX,mirrors.vsean.net
-
 # NAME: Other
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,pharchow.cn
 DOMAIN-SUFFIX,metshop.cn
+DOMAIN-KEYWORD,qinbaobao.com
 
 # NAME: Tesla
 DOMAIN-SUFFIX,solarcity.com
