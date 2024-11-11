@@ -40,3 +40,6 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
+#wechat
+IP-CIDR,43.130.194.0/23,no-resolve
+IP-CIDR,43.156.192.0/18,no-resolve
