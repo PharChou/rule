@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,static.siege-amazon.com
 DOMAIN-SUFFIX,images-fe.ssl-images-amazon.com
 DOMAIN-SUFFIX,m.media-amazon.com
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,www.notion.so
+DOMAIN-SUFFIX,msgstore.www.notion.so
+DOMAIN-SUFFIX,exp.notion.so
 
 #wechat
 DOMAIN-SUFFIX,szsupport.weixin.qq.com
