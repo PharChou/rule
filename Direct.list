@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,www.notion.so
 DOMAIN-SUFFIX,msgstore.www.notion.so
 DOMAIN-SUFFIX,exp.notion.so
+DOMAIN-SUFFIX,test-ipv6.com
 
 #wechat
 DOMAIN-SUFFIX,szsupport.weixin.qq.com
