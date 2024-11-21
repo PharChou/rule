@@ -1,6 +1,7 @@
 # 代理补充列表
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,fastlink
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
@@ -18,6 +19,20 @@ DOMAIN-SUFFIX,flcn.cc
 DOMAIN-SUFFIX,xiaoyakankan.com
 DOMAIN-SUFFIX,tapfog.com
 DOMAIN-SUFFIX,suixinfei.co
+
+# DNS Leak
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,perfect-privacy.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,vpnunlimited.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,whrq.net
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
