@@ -93,6 +93,11 @@ DOMAIN-SUFFIX,hklong.weixin.qq.com
 DOMAIN-SUFFIX,hkminorshort.weixin.qq.com
 DOMAIN-SUFFIX,hkquic.weixin.qq.com
 DOMAIN-SUFFIX,hkfindershort.weixin.qq.com
+DOMAIN-SUFFIX,calorietech.com
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,keep.com
+DOMAIN-SUFFIX,keep.com.cn
+DOMAIN-SUFFIX,keepcdn.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
