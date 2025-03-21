@@ -1,1 +1,4 @@
-docker.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-KEYWORD,huggingface
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,ollama.com
