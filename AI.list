@@ -76,6 +76,4 @@ DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,x.ai
 
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-KEYWORD,huggingface
 DOMAIN-SUFFIX,github.com
