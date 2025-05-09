@@ -37,12 +37,6 @@ http://192.168.100.1:4088/udp/239.69.1.249:11136
 http://192.168.100.1:4088/udp/239.69.1.152:10548
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://192.168.100.1:4088/udp/239.254.96.115:8664
-#EXTINF:-1,tvg-name="湖北经视" group-title="卫视频道",湖北经视
-http://192.168.100.1:4088/udp/239.69.1.41:9886
-#EXTINF:-1,tvg-name="湖北综合" group-title="卫视频道",湖北综合
-http://192.168.100.1:4088/udp/239.69.1.42:9892
-#EXTINF:-1,tvg-name="湖北垄上" group-title="卫视频道",湖北垄上
-http://192.168.100.1:4088/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://192.168.100.1:4088/udp/239.254.96.139:8908
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -115,11 +109,3 @@ http://192.168.100.1:4088/udp/239.69.1.79:10114
 http://192.168.100.1:4088/udp/239.254.96.175:9124
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 http://192.168.100.1:4088/udp/239.69.1.233:11040
-#EXTINF:-1,tvg-name="湖北公共" group-title="卫视频道",湖北公共
-http://192.168.100.1:4088/udp/239.69.1.40:9880
-#EXTINF:-1,tvg-name="湖北影视" group-title="卫视频道",湖北影视
-http://192.168.100.1:4088/udp/239.69.1.204:10866
-#EXTINF:-1,tvg-name="湖北教育" group-title="卫视频道",湖北教育
-http://192.168.100.1:4088/udp/239.69.1.206:10878
-#EXTINF:-1,tvg-name="湖北生活" group-title="卫视频道",湖北生活
-http://192.168.100.1:4088/udp/239.69.1.205:10872
