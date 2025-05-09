@@ -1,4 +1,4 @@
-#EXTM3U name="武汉电信IPTV"
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/e.xml
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://192.168.100.1:4088/udp/239.254.96.96:8550
 #EXTINF:-1,CCTV2
