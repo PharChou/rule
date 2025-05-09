@@ -1,5 +1,5 @@
 #EXTM3U name="武汉电信IPTV"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://192.168.100.1:4088/udp/239.254.96.96:8550
 #EXTINF:-1,CCTV2
 http://192.168.100.1:4088/udp/239.69.1.102:10250
