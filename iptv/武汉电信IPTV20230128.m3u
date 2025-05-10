@@ -37,6 +37,8 @@ http://192.168.100.1:4088/udp/239.69.1.249:11136
 http://192.168.100.1:4088/udp/239.69.1.152:10548
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://192.168.100.1:4088/udp/239.254.96.115:8664
+#EXTINF:-1 tvg-name="湖北垄上频道"tvg-id="1785"tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png"group-title="湖北台",湖北垄上
+http://192.168.100.1:4088/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://192.168.100.1:4088/udp/239.254.96.139:8908
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -121,6 +123,8 @@ http://192.168.100.1:4088/udp/239.69.1.74:10084
 http://192.168.100.1:4088/udp/239.69.1.98:10224
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道",CCTV央视高网
 http://192.168.100.1:4088/udp/239.69.1.83:10138
+#EXTINF:-1 tvg-name="风云足球"tvg-id="6000"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"group-title="央视频道",CCTV风云足球
+http://192.168.100.1:4088/udp/239.69.1.81:10126
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",CCTV世界地理
 http://192.168.100.1:4088/udp/239.69.1.91:10186
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",CCTV兵器科技
