@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-name="凤凰资讯"tvg-id="142"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"group-title="港澳台频道",凤凰资讯
+http://192.168.100.1:4088/udp/239.69.2.19:11268
+#EXTINF:-1 tvg-name="凤凰中文"tvg-id="141"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"group-title="港澳台频道",凤凰中文
+http://192.168.100.1:4088/udp/239.69.2.20:11274
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港澳台频道",TVB无线新闻
