@@ -31,6 +31,10 @@ DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,whyyy.com
 DOMAIN-SUFFIX,pub.3gppnetwork.org
 DOMAIN-SUFFIX,sysks.enyukj.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qcloud.com
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,kyarucloud.moe
@@ -73,25 +77,3 @@ DOMAIN-SUFFIX,members.3322.org
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-# 国内DNS
-DOMAIN-SUFFIX,dns.alidns.com
-DOMAIN-SUFFIX,doh.pub
-IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,219.147.1.66/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR,180.76.76.76/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,114.114.115.115/32,no-resolve
-#add
-DOMAIN-SUFFIX,qpic.cn,DIRECT
-DOMAIN-SUFFIX,qlogo.cn,DIRECT
-DOMAIN-SUFFIX,myqcloud.com,DIRECT
-DOMAIN-SUFFIX,qcloud.com,DIRECT
-IP-CIDR,203.205.128.0/17,DIRECT
-IP-CIDR,203.205.192.0/18,DIRECT
-IP-CIDR,101.226.0.0/16,DIRECT
-IP-CIDR,101.227.0.0/16,DIRECT
-IP-CIDR,119.29.0.0/16,DIRECT
-IP-CIDR,111.30.131.0/24,DIRECT
